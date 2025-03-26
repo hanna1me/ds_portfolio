@@ -9,21 +9,21 @@ const homeConfig = {
 
     greeting:
         <h1 className="heading">
-            Hi! I'm <strong className="main-name"> Rodrigo Arenas</strong>
+            Hi! I'm <strong className="main-name"> Hanna Chang</strong>
         </h1>,
     titles: [
         "A Data Scientist",
-        "A Machine Learning Specialist",
-        "An Open Source Contributor",
-        "A Backend Developer",
-        "A Colombian"
+        "A Junior at Macalester College",
+        "A Job/Internship Seeker",
+        "A Graphic Designer",
+        "A Korean American"
     ],
     about: {
-        start: "I've been working for over nine years on data science projects. " +
-            "I'm excited by learning new things, contributing to the data science community," +
+        start: "I've been working for almost three years on various data science projects. " +
+            "I'm always excited by learning new things, contributing to the data science community," +
             " and spreading the word of data!",
-        exit: "I'm fluent at Python, SQL databases, BI tools, and more, " +
-            "with a deep interest in machine learning."
+        exit: "I'm fluent at R, Python, Java, and SQL databases, " +
+            "with a deep interest in both machine learning and data visualization."
     },
     workTimeline: [
         {
